@@ -1,0 +1,7 @@
+print ("Hello world")
+print ("Welcome to the world of python coding")
+print(12)
+print("a = ",10)
+print("\nName\tage\tphoneno\njoe\t7\t645645\nMayank\t7\t845255")
+print("I am learning python",end =" ")
+print("It is easy to learn")
